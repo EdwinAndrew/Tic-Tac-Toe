@@ -9,3 +9,5 @@ This is a game in which two players seek in alternate turns to complete a row, a
 ## Summary
 
 I hope to improve this project later on once I learn more about AI. This will mean that a CPU can be selected to play against.
+
+*Credit to [Sentdex](https://www.youtube.com/user/sentdex/featured) for the tutorial.*
